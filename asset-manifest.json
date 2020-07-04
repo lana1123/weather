@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/weather/static/css/main.c70152ee.chunk.css",
+    "main.js": "/weather/static/js/main.e4baaa6f.chunk.js",
+    "main.js.map": "/weather/static/js/main.e4baaa6f.chunk.js.map",
+    "runtime-main.js": "/weather/static/js/runtime-main.f775bfa1.js",
+    "runtime-main.js.map": "/weather/static/js/runtime-main.f775bfa1.js.map",
+    "static/css/2.23e0c18e.chunk.css": "/weather/static/css/2.23e0c18e.chunk.css",
+    "static/js/2.a65f96e8.chunk.js": "/weather/static/js/2.a65f96e8.chunk.js",
+    "static/js/2.a65f96e8.chunk.js.map": "/weather/static/js/2.a65f96e8.chunk.js.map",
+    "index.html": "/weather/index.html",
+    "precache-manifest.e62c825cda88c34b62001de47b93ecc7.js": "/weather/precache-manifest.e62c825cda88c34b62001de47b93ecc7.js",
+    "service-worker.js": "/weather/service-worker.js",
+    "static/css/2.23e0c18e.chunk.css.map": "/weather/static/css/2.23e0c18e.chunk.css.map",
+    "static/css/main.c70152ee.chunk.css.map": "/weather/static/css/main.c70152ee.chunk.css.map",
+    "static/js/2.a65f96e8.chunk.js.LICENSE.txt": "/weather/static/js/2.a65f96e8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/weather/static/media/White-Heaven-Background.e26cc503.png",
+    "static/media/weather-icons.css": "/weather/static/media/weathericons-regular-webfont.ed0943f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f775bfa1.js",
+    "static/css/2.23e0c18e.chunk.css",
+    "static/js/2.a65f96e8.chunk.js",
+    "static/css/main.c70152ee.chunk.css",
+    "static/js/main.e4baaa6f.chunk.js"
+  ]
+}
