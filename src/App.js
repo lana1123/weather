@@ -21,7 +21,7 @@ const App = (props) => {
   const getWeather = async (place, tile) => {
     if (place) {
       fetch(
-        `http://api.openweathermap.org/data/2.5/weather?q=${place}&units=metric&appid=${API}`
+        `https://api.openweathermap.org/data/2.5/weather?q=${place}&units=metric&appid=${API}`
       )
         .then((response) => response.json())
         .then((data) => {
